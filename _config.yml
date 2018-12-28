@@ -1,0 +1,13 @@
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://thoughtspiration.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+title: "Gimme Your Thoughts"
+
+google_verify: 1s2j_iV7AadKMAn8_QcIOrreoAGd3ewO6nK7heION7I
+
+# set timezone
+timezone: America/Chicago
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
